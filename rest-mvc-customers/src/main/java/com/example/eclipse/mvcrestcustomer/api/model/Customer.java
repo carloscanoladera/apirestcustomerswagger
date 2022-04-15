@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * Created by jt on 9/27/17.
+ * 
  */
 @Entity
 public class Customer {

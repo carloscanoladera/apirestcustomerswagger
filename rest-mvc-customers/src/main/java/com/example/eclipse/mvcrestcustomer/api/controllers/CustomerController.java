@@ -10,7 +10,7 @@ import com.example.eclipse.mvcrestcustomer.api.model.CustomerList;
 import com.example.eclipse.mvcrestcustomer.api.services.CustomerService;
 
 /**
- * Created by jt on 9/27/17.
+ * 
  */
 @RestController
 @CrossOrigin({"http://127.0.0.1:5500/","localhost","localhost:8080","*"})

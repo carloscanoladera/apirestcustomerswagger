@@ -11,7 +11,7 @@ import com.example.eclipse.mvcrestcustomer.api.services.CustomerService;
 
 
 /**
- * Created by jt on 9/24/17.
+ * 
  */
 @Component
 public class Bootstrap implements CommandLineRunner{

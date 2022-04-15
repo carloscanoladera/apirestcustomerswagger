@@ -10,7 +10,7 @@ import com.example.eclipse.mvcrestcustomer.api.model.Customer;
 
 
 /**
- * Created by jt on 9/27/17.
+ * 
  */
 public interface CustomerService {
 

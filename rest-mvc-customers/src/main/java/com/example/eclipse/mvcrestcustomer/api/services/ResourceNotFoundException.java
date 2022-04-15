@@ -1,7 +1,7 @@
 package com.example.eclipse.mvcrestcustomer.api.services;
 
 /**
- * Created by jt on 10/6/17.
+ * 
  */
 public class ResourceNotFoundException extends RuntimeException {
 

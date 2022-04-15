@@ -14,7 +14,7 @@ import com.example.eclipse.mvcrestcustomer.api.services.ResourceNotFoundExceptio
 
 
 /**
- * Created by jt on 10/6/17.
+ * 
  */
 @ControllerAdvice
 public class RestResponseEntityExceptionHandler extends ResponseEntityExceptionHandler {
